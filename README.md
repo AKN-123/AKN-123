@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AKN-123
 - 👀 I’m interested in Software Development and Game Design
 - 🌱 I’m currently learning self-taught Game Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nsg.brown13@gamil.com
-- Currently Unemployed
+- Currently Employed
 - 
